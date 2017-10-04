@@ -1,0 +1,2 @@
+# hanayo-bot
+nvm
